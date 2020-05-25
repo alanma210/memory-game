@@ -5,6 +5,28 @@
   margin: 10px;
   display: inline-block;
 }
+
+.red.close {
+  background-image: url(img/Uncial-simplified.png);
+  background-size: contain;
+}
+.blue.close {
+  background-image: url(img/Uncial-simplified.png);
+  background-size: contain;
+}
+.green.close {
+  background-image: url(img/Uncial-simplified.png);
+  background-size: contain;
+}
+.orange.close {
+  background-image: url(img/Uncial-simplified.png);
+  background-size: contain;
+}
+.purple.close {
+  background-image: url(img/Uncial-simplified.png);
+  background-size: contain;
+}
+
 .red {
   background-color: red;
 }
@@ -20,6 +42,18 @@
 .purple {
   background-color: purple;
 }
-.close {
-  background-color: white;
+
+body {
+  background-color: rgb(231, 204, 168);
+}
+
+h1 {
+  font-size: 50px;
+  font-family: Montserrat;
+}
+
+.inner-text {
+  font-size: 15px;
+  font-family: IBM Plex Sans;
+  font-weight: 500;
 }
